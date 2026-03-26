@@ -1,4 +1,4 @@
-# LSTM Stock Prediction
+# Lstm Stock Prediction
 
 A machine learning project using Long Short-Term Memory (LSTM) networks to predict stock price movements.
 
